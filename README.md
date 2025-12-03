@@ -49,6 +49,10 @@ Category-wise sales performance shows which product lines perform best.
 
 Returned orders with payments help detect refund mismatches.
 
+## Projects
+
+[E-commerce project SQL 1.sql](https://github.com/user-attachments/files/23903871/E-commerce.project.SQL.1.sql) --> Full Script
+
 ## How to Run This Project
 
 Download The project File
