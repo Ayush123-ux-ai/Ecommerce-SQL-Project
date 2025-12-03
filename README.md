@@ -45,7 +45,7 @@ Returned orders with payments help detect refund mismatches.
 
 ## Project Files
 
-→ Full SQL script
+E-commerce project SQL 1.sql→ Full SQL script
 
 ## How to Run This Project
 
