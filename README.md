@@ -19,6 +19,12 @@ Payments: Records of order payments, methods used, and payment amounts.
 
 Reviews: Customer feedback, ratings, and review Date.
 
+## Tech Stack
+
+SQL / MySQL
+
+MySQL Workbench / Any SQL environment
+
 ## Advance SQL Implemnted
 
 Joins 
@@ -43,15 +49,18 @@ Category-wise sales performance shows which product lines perform best.
 
 Returned orders with payments help detect refund mismatches.
 
-## Project Files
-
-https://github.com/Ayush123-ux-ai/Ecommerce-SQL-Project/blob/main/E-commerce%20project%20SQL%201.sql→ Full SQL script
-
 ## How to Run This Project
+
+Download The project File
 
 Open MySQL Workbench (or any SQL tool).
 
 Import and run the SQL script.
 
 Execute individual queries to explore insights.
+
+## Purpose of the Project
+
+The goal of this project is to apply SQL to solve business problems, perform analytical queries, and extract insights that help in decision-making.
+It serves as a strong portfolio project showcasing your knowledge of database design, SQL querying, analytics, and E-Commerce domain logic.
 
